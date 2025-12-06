@@ -8,7 +8,7 @@ This repository contains the official implementation of **"Collaborative Refinem
 
 Developing robust deep learning models for Automated Visual Inspection (AVI) is often hindered by the scarcity and imbalance of defect training data. To address this, we propose CRG-DefectDiffuser, a collaborative generative framework for high-fidelity defect synthesis.
 
-![Architecture](figures/framework-GitHub.svg)
+![Architecture](figures/framework.svg)
 *Figure 1: The overall architecture of the Collaborative Refinement Guidance framework.*
 
 Our framework's core is the Collaborative Refinement Guidance (CRG) mechanism. It orchestrates two specialized diffusion models:

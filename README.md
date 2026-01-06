@@ -196,10 +196,7 @@ If you find this work useful for your research, please consider citing:
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Collaborative Refinement Guidance for High-Fidelity Defect Image Synthesis}, 
   year={2026},
-  volume={},
-  number={},
   pages={1-1},
-  keywords={Defect Detection;Diffusion Models;Defect Synthesis;Data Augmentation;Visual Inspection;Manufacturing Quality Control},
   doi={10.1109/TCSVT.2026.3650924}}
 ```
 

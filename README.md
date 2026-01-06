@@ -191,13 +191,16 @@ CRG-Diffusion/
 If you find this work useful for your research, please consider citing:
 
 ```bibtex
-@article{luo2025crg,
-  title={Collaborative Refinement Guidance for High-Fidelity Defect Image Synthesis},
-  author={Weihang Luo and Xingen Gao and Zhijie Zhang and Jianxiongwen Huang and Hongyi Zhang and Juqiang Lin and Hua Shi and Huanqiang Zeng},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2025},
-  note={Under minor revision}
-}
+@ARTICLE{11329017,
+  author={Luo, Weihang and Gao, Xingen and Zhang, Zhijie and Huang, Jianxiongwen and Zhang, Hongyi and Lin, Juqiang and Shi, Hua and Zeng, Huanqiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Collaborative Refinement Guidance for High-Fidelity Defect Image Synthesis}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Defect Detection;Diffusion Models;Defect Synthesis;Data Augmentation;Visual Inspection;Manufacturing Quality Control},
+  doi={10.1109/TCSVT.2026.3650924}}
 ```
 
 **Note:** The BibTeX entry will be updated with complete information and DOI upon paper acceptance.
